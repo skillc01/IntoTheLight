@@ -1,7 +1,7 @@
 # IntoTheLight
 
-My 2nd Global Game Jam Game created in Unity and first independant Unity game.
-Created by Chloe Skillman (2nd Year Computer Games Student) and Jenny Calton (2nd Year Biological Sciences student) in 
+2nd Global Game Jam Game created in Unity. 
+A simple game created by Chloe Skillman (2nd Year Computer Games Student) and Jenny Calton (2nd Year Biological Sciences student) in 
 48 hours.
 Link to game on global game jam site: https://globalgamejam.org/2018/games/light-3
 
@@ -41,13 +41,13 @@ Unzip the file.
 
 ## Screenshots and video
 
-[![IntoTheLight](https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/intothelight.jpg?itok=JuTaOCgx&timestamp=1517153846)
+![IntoTheLight](https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/intothelight.jpg?itok=JuTaOCgx&timestamp=1517153846)
 
 Game Stills
 
-[![IntoTheLightGS1](https://ggj.s3.amazonaws.com/styles/feature_image__wide/games/screenshots/pic1_4.jpg?itok=16a_ApUO&timestamp=1517155879)
+![IntoTheLightGS1](https://ggj.s3.amazonaws.com/styles/feature_image__wide/games/screenshots/pic1_4.jpg?itok=16a_ApUO&timestamp=1517155879)
 
-[![IntoTheLightGS2](https://ggj.s3.amazonaws.com/styles/feature_image__wide/games/screenshots/pic2_5.jpg?itok=Btf3E06A&timestamp=1517155879)
+![IntoTheLightGS2](https://ggj.s3.amazonaws.com/styles/feature_image__wide/games/screenshots/pic2_5.jpg?itok=Btf3E06A&timestamp=1517155879)
 
 ## Authors
 
@@ -60,7 +60,7 @@ Game Stills
 
 * Would like to thank Jenny Calton for her artwork and company during the creation of this game. 
 
-* Inspiration - Thanks to [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)' channel.
+* Inspiration - Thanks to [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)' channel. 
 
 Music in Game:
 * Music in game is called "Uprising"  from Royalty-Free website - http://www.purple-planet.com
