@@ -1,6 +1,6 @@
 # IntoTheLight
 
-2nd Global Game Jam Game created in Unity. 
+2nd Global Game Jam Game 2018 created in Unity. 
 A simple game created by Chloe Skillman (2nd Year Computer Games Student) and Jenny Calton (2nd Year Biological Sciences student) in 
 48 hours.
 Link to game on global game jam site: https://globalgamejam.org/2018/games/light-3
