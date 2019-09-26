@@ -39,7 +39,7 @@ Unzip the file.
 
 [Unity2018.2.5f1](https://unity3d.com/get-unity/download) - contains link to download Unity2018.2.5f1 and previous and later versions. 
 
-## Screenshots and video
+## Screenshots
 
 ![IntoTheLight](https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/intothelight.jpg?itok=JuTaOCgx&timestamp=1517153846)
 
