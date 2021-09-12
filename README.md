@@ -55,6 +55,7 @@ Game Stills
                                          [LinkedIn](https://www.linkedin.com/in/chloe-skillman-b80941183/)
                                          [Global Game Jam Site](https://globalgamejam.org/users/chloe-skillman)
 * **Jenny Calton** -  *Pixel art for Global Game Jam thumbnail*  -  [Global Game Jam Site](https://globalgamejam.org/users/jackal25)
+                                         [LinkedIn](https://www.linkedin.com/in/jennifer-calton-330ba7195/)
 
 ## Acknowledgments
 
